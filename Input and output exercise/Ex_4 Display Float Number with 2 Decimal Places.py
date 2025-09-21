@@ -10,8 +10,8 @@ num = 458.541315
 print(format(num, ".2f"))
 
 #Using format()
-num = 458.541315
-print(f"{num:.2f}")
+num1 = 458.541315
+print(f"{num1:.2f}")
 
 #Using round()
 num = 458.541315
